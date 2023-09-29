@@ -15,3 +15,11 @@ deps
 .rebar3
 _build/
 _checkouts/
+
+
+# erlang.mk
+_rel/*
+.erlang.mk/*
+
+#other
+logs/*
