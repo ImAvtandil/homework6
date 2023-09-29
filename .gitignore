@@ -23,3 +23,9 @@ _rel/*
 
 #other
 logs/*
+*.html
+*.css
+*.js
+variables-nonode@nohost
+ct_log_cache
+ct_run*
